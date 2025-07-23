@@ -53,4 +53,4 @@ fig.update_xaxes(tickvals=target_distances)
 fig.write_html("lcoht_truck_comparison.html")
 webbrowser.open("lcoht_truck_comparison.html")
 fig.write_image("lcoht_truck_comparison.png")
-print("✅ Chart generated for 350 vs 540 bar trailers at 30,000 kg/day.")
+
